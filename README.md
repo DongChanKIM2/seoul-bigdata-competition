@@ -65,5 +65,5 @@ Secondly, the judges gave the comments that I've did not inspection on-site
 I'll make up these shortages to produce better result for next time
 
 ## License
-Copyright © 2020 [Chan](https://github.com/DongChanKIM2)
+Copyright © 2020 [Chan](https://github.com/DongChanKIM2)  
 MIT
